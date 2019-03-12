@@ -2,7 +2,9 @@
 
 Created with love by: Thuy G Ho
   
-This is a simple Canvas-based game that requires a solid understanding of the principles of JavaScript programming to customize. 
+This is a simple Canvas-based game that requires a solid understanding of the principles of JavaScript programming to customize.
+
+## https://catch-me-if-you-can.netlify.com/
 
 ## Video Walkthrough
 
